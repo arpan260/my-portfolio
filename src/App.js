@@ -160,6 +160,8 @@ export default function App() {
       {/* Footer */}
       <footer className="bg-gray-800 text-white py-6 text-center">
         <p>&copy; 2026 Arpan Sharma. All rights reserved.</p>
+        <p>This is a test line from branch.</p>
+
       </footer>
     </div>
   );
