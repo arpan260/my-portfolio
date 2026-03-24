@@ -93,7 +93,7 @@ export default function App() {
           Strong focus on hygiene, teamwork, and customer service. Adaptable to multicultural workplaces and motivated
           to contribute to Dubai's hospitality sector.
         </p>
-        <p>Added more</p>
+     
       </FadeInSection>
 
       {/* Experience */}
