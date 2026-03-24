@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🚀 Lesson One: Git + Deployment Workflow
+
+### 📂 Project Structure
+- `public/` → Static assets (index.html, images)
+- `src/` → React components and app logic
+- `.gitignore` → Files Git should ignore (e.g., node_modules)
+- `README.md` → Documentation and workflow guide
+- `package.json` → Dependencies and scripts
+- `package-lock.json` → Exact dependency versions
+- `tailwind.config.js` → Tailwind CSS configuration
+- `postcss.config.js` → PostCSS setup
+
+---
+
+### 🔧 Workflow Steps
+1. Navigate to project folder  
+   ```powershell
+   cd "C:\Users\user name\my-portfolio"
